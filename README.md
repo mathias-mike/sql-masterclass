@@ -11,5 +11,5 @@ This is a masterclass taking students from zero to sql masters. In this reposito
 * **Yinka** (Excel foundation) - March 29, 2022
 
 ## Videos
-[Introduction](https://youtu.be/fWVr6Zcp8vM)
+* [Introductory class](https://youtu.be/fWVr6Zcp8vM)
 
